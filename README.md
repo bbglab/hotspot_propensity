@@ -4,10 +4,16 @@ This repository contains the source code to reproduce hotspot propensity figures
 *Arnedo-Pac C, Muiños F, Gonzalez-Perez A, Lopez-Bigas N. Hotspot propensity across mutational processes. bioRxiv 2022.09.14.507952; doi: [10.1101/2022.09.14.507952](https://www.biorxiv.org/content/10.1101/2022.09.14.507952v2)*
 
 ## Content
-
+The repository contains the data and code to reproduce the main and Extended View figures figures of the manuscript. You can also check the resulting PNG images from running the code. 
+- [Figure 1](https://github.com/bbglab/hotspot_propensity/tree/main/figures/main_figures/figure_1)
+- [Figure 2](https://github.com/bbglab/hotspot_propensity/tree/main/figures/main_figures/figure_2)
+- [Figure 3](https://github.com/bbglab/hotspot_propensity/tree/main/figures/main_figures/figure_3)
+- [Figure 4](https://github.com/bbglab/hotspot_propensity/tree/main/figures/main_figures/figure_4)
+- [Figure 5](https://github.com/bbglab/hotspot_propensity/tree/main/figures/main_figures/figure_5)
+- [Extended View Figure 1](https://github.com/bbglab/hotspot_propensity/tree/main/figures/extended_view_figures/figure_EV1)
+- [Extended View Figure 2](https://github.com/bbglab/hotspot_propensity/tree/main/figures/extended_view_figures/figure_EV2)
 
 ## How to run
-
 #### Requirements
 
 This code has been developed in Python 3.6 and Jupyter Notebook version 5.0.0. You can check the list of additional requirements at [requirements.txt](https://github.com/bbglab/hotspot_propensity/blob/main/requirements.txt) file. 
@@ -58,13 +64,11 @@ total_mutations_per_sample.json
 Run the notebook of your interest. Figures will appear in the running directory of the notebook. 
 
 ## Additional information
-
 You can read all details of the manuscript at: Arnedo-Pac C, Muiños F, Gonzalez-Perez A, Lopez-Bigas N. Hotspot propensity across mutational processes. bioRxiv 2022.09.14.507952; doi: [10.1101/2022.09.14.507952](https://www.biorxiv.org/content/10.1101/2022.09.14.507952v2)
 
 HotspotFinder algorithm is described in Materials and Methods section and Appendix Note 1 of the manuscript and its repository. You can download HotspotFinder at [bitbucket.org/bbglab/hotspotfinder](https://bitbucket.org/bbglab/hotspotfinder/src/master/)
 
 ## How to cite
-
 Arnedo-Pac C, Muiños F, Gonzalez-Perez A, Lopez-Bigas N. Hotspot propensity across mutational processes. bioRxiv 2022.09.14.507952; doi: [10.1101/2022.09.14.507952](https://www.biorxiv.org/content/10.1101/2022.09.14.507952v2)
 
 ## License
