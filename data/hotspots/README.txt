@@ -1,1 +1,0 @@
-/workspace/projects/hartwig/hotspots/hotspotfinder/publication/hotspots_zenodo/README.txt
