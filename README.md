@@ -24,13 +24,13 @@ You can directly create a conda environment as:
 ~$ conda create --name hotspot_propensity_env --file requirements.txt
 ```
 
-#### Step 2. Get a copy of `hotspot_propensity` repository
+#### Step 2. Get a copy of hotspot_propensity repository
 For example, you can clone the repository as:
 ```sh
 ~$ git clone git@github.com:bbglab/hotspot_propensity.git
 ```
 #### Step 3. Download and uncompress source data
-The source data is available within [`hotspot_propensity` Github](https://github.com/bbglab/hotspot_propensity) and Zenodo [10.5281/zenodo.10004773](https://doi.org/10.5281/zenodo.10004773) repositories.
+The source data is available within this [Github](https://github.com/bbglab/hotspot_propensity) and a Zenodo [10.5281/zenodo.10004773](https://doi.org/10.5281/zenodo.10004773) repositories.
 
 1. Download hotspots identified across cancer types from Zenodo [10.5281/zenodo.10004773](https://doi.org/10.5281/zenodo.10004773). 
 2. Move `hotspots.zip` file to `./data` directory and uncompress. 
@@ -73,3 +73,5 @@ Arnedo-Pac C, Muiños F, Gonzalez-Perez A, Lopez-Bigas N. Hotspot propensity acr
 
 ## License
 This code is available to the general public subject to certain conditions described in its [LICENSE](https://github.com/bbglab/hotspot_propensity/blob/main/LICENSE). 
+
+
