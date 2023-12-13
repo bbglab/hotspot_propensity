@@ -16,12 +16,12 @@ The repository contains the data and code to reproduce the main and Extended Vie
 ## How to run
 #### Requirements
 
-This code has been developed in Python 3.6 and Jupyter Notebook version 5.0.0. You can check the list of additional requirements at [requirements.txt](https://github.com/bbglab/hotspot_propensity/blob/main/requirements.txt) file. 
+This code has been developed in Python 3.6 and Jupyter Notebook version 5.0.0. You can check the list of additional requirements at [env.yaml](https://github.com/bbglab/hotspot_propensity/blob/main/env.yaml) file. 
 
 #### Step 1. Create a conda environment and install the requirements
 You can directly create a conda environment as: 
 ```sh
-~$ conda create --name hotspot_propensity_env --file requirements.txt
+~$ conda env create --name hotspot_propensity_env --file env.yaml 
 ```
 
 #### Step 2. Get a copy of hotspot_propensity repository
@@ -65,7 +65,7 @@ Run the notebook of your interest. Figures will appear in the running directory 
 
 ## Additional information
 
-Additional code to carry out the analyses described in the manuscript can be found in [analysis](https://github.com/bbglab/hotspot_propensity/tree/main/analysis). Note that the input data for this section has to be downloaded from the original sources as described in the manuscript. 
+Additional code to carry out the analyses described in the manuscript can be found in [analysis](https://github.com/bbglab/hotspot_propensity/tree/main/analysis). Note that the input data for this section must be downloaded from the original sources as described in the manuscript. 
 
 HotspotFinder algorithm is described in Materials and Methods section and Appendix Note 1 of the manuscript and its repository. You can download HotspotFinder at [bitbucket.org/bbglab/hotspotfinder](https://bitbucket.org/bbglab/hotspotfinder/src/master/)
 
