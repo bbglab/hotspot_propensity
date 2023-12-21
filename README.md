@@ -1,7 +1,7 @@
 # **Hotspot propensity across mutational processes**
 This repository contains the source code to reproduce hotspot propensity figures from the manuscript: 
 
-*Arnedo-Pac C, Muiños F, Gonzalez-Perez A, Lopez-Bigas N. Hotspot propensity across mutational processes. bioRxiv 2022.09.14.507952; doi: [10.1101/2022.09.14.507952](https://www.biorxiv.org/content/10.1101/2022.09.14.507952v2)*
+*Arnedo-Pac C, Muiños F, Gonzalez-Perez A, Lopez-Bigas N. Hotspot propensity across mutational processes. Mol Syst Biol. 2023:1-22. doi: [doi.org/10.1038/s44320-023-00001-w](https://doi.org/10.1038/s44320-023-00001-w)*
 
 ## Content
 The repository contains the data and code to reproduce the main and Extended View figures figures of the manuscript. You can also check the resulting PNG images from running the code. 
@@ -72,7 +72,7 @@ HotspotFinder algorithm is described in Materials and Methods section and Append
 You can read all details of the manuscript at: Arnedo-Pac C, Muiños F, Gonzalez-Perez A, Lopez-Bigas N. Hotspot propensity across mutational processes. bioRxiv 2022.09.14.507952; doi: [10.1101/2022.09.14.507952](https://www.biorxiv.org/content/10.1101/2022.09.14.507952v2)
 
 ## How to cite
-Arnedo-Pac C, Muiños F, Gonzalez-Perez A, Lopez-Bigas N. Hotspot propensity across mutational processes. bioRxiv 2022.09.14.507952; doi: [10.1101/2022.09.14.507952](https://www.biorxiv.org/content/10.1101/2022.09.14.507952v2)
+Arnedo-Pac C, Muiños F, Gonzalez-Perez A, Lopez-Bigas N. Hotspot propensity across mutational processes. Mol Syst Biol. 2023:1-22. doi: [doi.org/10.1038/s44320-023-00001-w](https://doi.org/10.1038/s44320-023-00001-w)
 
 ## License
 This code is available to the general public subject to certain conditions described in its [LICENSE](https://github.com/bbglab/hotspot_propensity/blob/main/LICENSE). 
